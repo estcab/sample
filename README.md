@@ -1,1 +1,1 @@
-# sample
+# dotnet console app in docker
